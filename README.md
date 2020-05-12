@@ -6,4 +6,5 @@ This project presents a consistent amount of challenges both in terms of managin
 
 The aim also is to provide the open source community with an initial starting example/template as a project reference for anyone who wishes to get in creating, designing and building such a project
 
-![](image/filename 13.png)
+![Image description](https://github.com/chopinregis/OS-TINY-HOME-TRAILER/blob/master/OS-TINY-HOME-TRAILER/IMAGE%20BANK/Picture%20Snapshots/13.png)
+
