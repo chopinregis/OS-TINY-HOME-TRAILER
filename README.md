@@ -6,4 +6,4 @@ This project presents a consistent amount of challenges both in terms of managin
 
 The aim also is to provide the open source community with an initial starting example/template as a project reference for anyone who wishes to get in creating, designing and building such a project
 
-![](C:\Users\regis\OneDrive\Documents\Github\OS-TINY-HOME-TRAILER\OS-TINY-HOME-TRAILER\IMAGE BANK\Picture Snapshots\11.png)
+![](image/filename 13.png)
